@@ -18,7 +18,7 @@ This repository demonstrates two implementations of using the [Ollama API](https
 1. Clone this repository:
    ```bash
    git clone https://github.com/Ryan-PG/yt-ollama-streamlit.git
-   cd ollama-chat-examples
+   cd yt-ollama-streamlit
    ```
 
 2. Install the required Python packages:
