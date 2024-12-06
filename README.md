@@ -1,4 +1,4 @@
-# Ollama Chat Examples
+# Ollama Chat Examples (using streamlit)
 
 This repository demonstrates two implementations of using the [Ollama API](https://ollama.ai/) for interacting with AI models like `qwen2.5`. The first example is a Python script, and the second example integrates with a Streamlit app for a simple web-based user interface.
 
